@@ -16,7 +16,7 @@ videoPostArgs.add_argument("Delivery Address", action='append', help="Add your d
 pizzas=[{
 			"Pizza ID" : 0,
 			"Name" : "Margherita",
-			"Vegetarian" : False,
+			"Vegetarian" : True,
 			"Price" : 12.50,
 			"Toppings" : [
 							"Tomatoes",
